@@ -1,0 +1,36 @@
+IMG :
+    Big-banner 
+        Black and white vinyl record photo  (property of Unsplash)
+
+    Products 
+        1. album1.png       (property of Weverse Shop)
+        2. album2.png       (property of Weverse Shop)
+        3. album3png        (property of Weverse Shop)
+        4. album4.png       (property of Weverse Shop)
+        5. album5.png       (property of Weverse Shop)
+        6. ls1.png          (property of Weverse Shop)
+        7. ls2.png          (property of Weverse Shop)
+        8. ls3.png          (property of Weverse Shop)
+        9. ls4.png          (property of Weverse Shop)
+        10. ls5.png         (property of Weverse Shop)
+        11. dvd1.png        (property of Weverse Shop)
+        12. dvd2.png        (property of Weverse Shop)
+        13. dvd3.png        (property of Weverse Shop)
+        14. dvd4.png        (property of Weverse Shop)
+        15. dvd5.png        (property of Weverse Shop)
+        16. merch1.png      (property of Weverse Shop)
+        17. merch2.png      (property of Weverse Shop)
+        18. merch3.png      (property of Weverse Shop)
+        19. merch4.png      (property of Weverse Shop)
+        20. merch5.png      (property of Weverse Shop)
+        
+    Contact     
+        People walking on road surrounded by buildings photo    (property of Unsplash)
+
+Icon :
+    1. Facebook     (property of Font Awesome)
+    2. Twitter      (property of Font Awesome)
+    3. Instagram    (property of Font Awesome)
+    4. Phone        (property of Font Awesome)
+
+
